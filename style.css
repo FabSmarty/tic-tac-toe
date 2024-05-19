@@ -126,3 +126,21 @@ h3 {
         right: auto;
     }
 }
+@media screen and (max-width: 360px) {
+    .container {
+        height: 40vh;
+        width: 90vw;
+    }
+
+    .game-cont {
+        height: 85%;
+    }
+
+    .win {
+        height: 100px;
+        width: 100px;
+        position: fixed;
+        bottom: 10px;
+        right: auto;
+    }
+}
