@@ -108,7 +108,7 @@ h3 {
     width: 60%;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 960px) {
     .container {
         height: 40vh;
         width: 90vw;
